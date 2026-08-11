@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "teams": [
+    {
+      "slug": "legacy-empire",
+      "name": "Legacy Empire",
+      "host": "https://legacyonboard.com",
+      "tagline": "Partner Onboarding"
+    },
+    {
+      "slug": "brave-collective",
+      "name": "Brave Collective",
+      "host": "https://bravecollectiveteam.com",
+      "tagline": "Partner Onboarding"
+    }
+  ]
+}
