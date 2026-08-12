@@ -12,6 +12,13 @@
       "name": "Brave Collective",
       "host": "https://bravecollectiveteam.com",
       "tagline": "Partner Onboarding"
+    },
+    {
+      "slug": "believing-bigger",
+      "name": "Believing Bigger Co",
+      "host": "https://believingbiggerco.com",
+      "tagline": "Partner Onboarding",
+      "short_name": "BBCo"
     }
   ]
 }
